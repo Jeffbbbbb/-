@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="zh-tw">
     <head>
         <meta charset="UTF-8">
@@ -8,7 +6,7 @@
     <body>
         <h1>宇謙的個人網站</h1>
         <P>哈囉大家好!我是宇謙，這是我的個人網站!</P>
-        <img src="493842.jpg" alt="我的照片" height="200"
+      
         
         <h2></h2><h2>教育背景</h2>
         <ol>
